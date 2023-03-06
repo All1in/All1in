@@ -37,7 +37,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%d0%b1%d0%be%d0%b3%d0%b4%d0%b0%d0%bd-%d0%bc%d0%be%d0%bc%d0%be%d1%82-5307a7242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d0%b1%d0%be%d0%b3%d0%b4%d0%b0%d0%bd-%d0%bc%d0%be%d0%bc%d0%be%d1%82-5307a7242/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bogdan-momot-5307a7242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d0%b1%d0%be%d0%b3%d0%b4%d0%b0%d0%bd-%d0%bc%d0%be%d0%bc%d0%be%d1%82-5307a7242/" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/all1in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/all1in" height="30" width="40" /></a>
 <a href="https://discord.gg/#2047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2047" height="30" width="40" /></a>
 </p>
